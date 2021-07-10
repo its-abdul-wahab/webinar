@@ -1,0 +1,1681 @@
+@media(min-width:577px){
+    .ask-an-expert-category-row .category-types .button-wrap button{
+        margin-left: -33px;
+    }
+}
+
+
+@media(min-width:768px){
+    section.rexroth-section #contact h2 {
+
+        line-height: .6;
+        margin-bottom: 2rem;
+    }
+    .recommended-software-item .recommended-software-item-name {
+        min-height: 106px;
+    }
+
+    .recommended-software .software-box .content-wrap .btns a{
+            flex: 0 0 150px;
+    max-width: 150px;
+    }
+}
+
+@media(min-width:992px){
+    .recommended-software-item-info {
+
+        min-height: 29px;
+    }
+    .filtered-software-item>p {
+
+        min-height: 90px;
+    }
+    .featured-companies-item.featured-companies-services{
+        height: calc(100% - -20px);
+    }
+    .featured-companies-item-bottom {
+        position: absolute;
+        bottom: 30px;
+    }
+    section#recommended-software .col-md-12 {
+        margin-bottom: 40px;
+    }
+    .hero-content svg{
+        position: absolute;
+        bottom: -40px;
+    }
+    .owl-hero-carousel .owl-stage-outer{
+        height: max-content!important;
+    }
+    .hero-content .owl-dots{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .hero-slider-gap1 {
+        min-height: 90px;
+    }
+    
+    .hero-slider-gap2 {
+        min-height: 90px;
+    }
+    
+    .hero-slider-gap3 {
+        min-height: 90px;
+    }
+}
+
+@media(min-width:1200px){
+    .hero-slider-gap3{
+        min-height: 45px;
+    }
+}
+
+
+@media(min-width:1350px){
+    .featured-experts-info h4{
+        white-space: nowrap;
+    }
+    .ask-an-expert{
+        margin: 0 15px;
+    }
+    .hero-content .owl-dots{
+        margin-top: -30px;
+
+    }
+    .featured-product-slider .owl-nav{
+        top: 46%;
+    }
+}
+
+
+@media (min-width: 1750px) {
+    .container.menu-container {
+        max-width: 1705px;
+    }
+}
+
+@media (min-width: 1550px) {
+    .container {
+        max-width: 1500px;
+    }
+    .hero-text.software-text h1{
+        font-size: 42px;
+    }
+    .hero-slider-gap3 {
+        min-height: 50px;
+    }
+    .hero-slider-gap2 {
+        min-height: 90px;
+    }
+}
+
+@media (max-width: 2000px) {
+    .campanies-header:after {
+        bottom: -112px;
+        height: 140px;
+    }
+}
+
+@media (max-width: 1749px) {
+    .container.menu-container {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1600px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+        font-weight: normal;
+        padding: 0;
+        margin-left: 15px;
+        margin-right: 16px;
+        text-transform: uppercase;
+        padding: 2px 0px;
+    }
+    .dropdown-search>button {
+        background: none;
+        font-size: 22px;
+        border: 1px solid;
+        color: #272727;
+        border-radius: 100%;
+        width: 35px;
+        height: 35px;
+        padding: 0;
+        line-height: 40px;
+    }
+    .ask-a-question-form-top a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 1549px) {
+    .container {
+        max-width: 1350px;
+    }
+    .recommended-software-item-name-details-right {
+        position: relative;
+        bottom: -15px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .container {
+        max-width: 1350px;
+    }
+    .recommended-software-item-name-details-right {
+        position: relative;
+        bottom: -15px;
+    }
+    button.owl-prev {
+        position: absolute;
+        left: -20px;
+    }
+    button.owl-next {
+        right: -20px;
+        position: absolute;
+    }
+    .featured-companies-slider button.owl-prev {
+        position: absolute;
+        left: -30px;
+    }
+    .featured-companies-slider button.owl-next {
+        position: absolute;
+        right: -30px;
+    }
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: -30px;
+    }
+    .featured-product-slider button.owl-next {
+        position: absolute;
+        right: -30px;
+    }
+    .homepage-main-slider .owl-nav {
+        position: absolute;
+        top: inherit;
+        transform: translate(-50%, -50%);
+        width: 150px;
+        bottom: -10px;
+        left: 50%;
+    }
+}
+
+@media (max-width: 1400px) {
+    .owl-nav {
+        position: absolute;
+        top: -50px;
+        transform: translate(0px, 0%);
+        width: 100%;
+    }
+    button.owl-prev {
+        position: absolute;
+        left: 92%;
+    }
+    button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+    .featured-companies-slider button.owl-prev {
+        position: absolute;
+        left: 92%;
+    }
+    .featured-companies-slider button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 92%;
+    }
+    .featured-product-slider button.owl-next {
+        right: 0px;
+        position: absolute;
+    }
+    .homepage-main-slider button.owl-prev {
+        position: absolute;
+        left: 0;
+    }
+
+    .footer-menu ul a {
+        font-size: 16px;
+        letter-spacing: 0px;
+    }
+    .featured-companies-item {
+        min-height: 600px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .container {
+        max-width: 1270px;
+    }
+    .recommended-software-item-name-details-left>div {
+        display: inline-block;
+    }
+    .recommended-software-item-name-details-left>div a {
+        margin-top: 10px;
+        width: 210px;
+        text-align: center;
+    }
+    ul.navbar-nav .nav-item:nth-last-child(5) {
+        display: none;
+    }
+    .featured-content-writer-info h5 {
+        font-size: 19px;
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 1299.9px) {
+    .software-filter-btns {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .hero-text.companies-text a{
+        min-width:180px;
+    }
+    button.navbar-toggler {
+        border: none;
+        color: #272727 !important;
+        font-size: 55px !important;
+    }
+    ul.navbar-nav .nav-item {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .nav-login-btn a {
+        border: 1px solid;
+        padding: 5px 30px !important;
+        border-radius: 5px;
+    }
+    li.nav-search-button {
+        display: none;
+    }
+    ul.navbar-nav .nav-item:nth-last-child(3) {
+        display: block;
+    }
+    ul.navbar-nav .nav-item:nth-last-child(4) {
+        display: block;
+    }
+    ul.navbar-nav .nav-item:nth-last-child(5) {
+        display: block;
+    }
+    .hero-text h1 {
+        font-size: 53px;
+    }
+    .hero-text p {
+        font-size: 22px;
+        line-height: 31px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        line-height: 1.2;
+        margin-top: 10px;
+    }
+    a.leave-review {
+        padding: 5px 40px;
+        font-size: 18px;
+        line-height: 50px;
+        top: -30px;
+        right: 0;
+    }
+    .categories-item a {
+        width: 22%;
+        font-size: 16px;
+        padding: 7px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .recommended-software-item-name h3 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    a.view-details-btn {
+        font-size: 11px;
+        padding: 10px 30px;
+    }
+    .browse-software-link a {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+    .nice-select {
+        box-shadow: 0px 3px 8px #00000030;
+        border-radius: 40px;
+        padding: 0px 40px;
+    }
+    .nice-select .current {
+        font-size: 13px;
+    }
+    .nice-select:after {
+        right: 30px;
+        font-size: 20px;
+    }
+    .nice-select.open:after {
+        right: 15px;
+    }
+    .filtered-software-item h3 {
+        font-size: 30px;
+        font-weight: normal;
+        margin-bottom: 20px;
+        letter-spacing: 1px;
+    }
+    .col-12.col-md-6.cp-l {
+        padding-left: 15px;
+    }
+    .col-12.col-md-6.cp-r {
+        padding-right: 15px;
+    }
+    section#resources-h .col-12.col-md-4 {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    /* .resources-h-item-overlay h2 {
+        line-height: 26px;
+    } */
+    .resources-h-item-overlay h4 {
+        font-size: 16px;
+        font-weight: normal;
+        color: #F4F4F4;
+        line-height: 32px;
+    }
+    section#footer h5 {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .footer-menu ul a {
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+    .footer-copyright-left a,
+    .footer-copyright-right p {
+        font-size: 15px;
+        margin-right: 25px;
+    }
+    .footer-subscriber form input {
+        padding: 10px 20px;
+        width: 80%;
+        border-radius: 6px;
+        font-size: 16px;
+    }
+    .footer-subscriber form button {
+        padding: 8px 25px;
+        border-radius: 5px;
+        margin-top: 14px;
+        font-size: 15px;
+    }
+    .hero-image-over-news h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .hero-text a {
+        font-size: 15px;
+    }
+    a.visit-website2 {
+        right: inherit;
+        bottom: -65px;
+        left: 0;
+    }
+    .companie-item-full-width-info-bottom .recommended-software-item-review {
+        margin-bottom: 40px;
+        justify-content: space-between;
+    }
+    .companie-item-full-width-info-bottom .recommended-software-item-review>div span {
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+    .free-trial2 {
+        margin-left: 0px;
+    }
+    .start-learning-item-text {
+        padding: 50px 40px;
+        min-height: 600px;
+    }
+    .popular-instructors-info-wraper h2 {
+        font-size: 25px;
+    }
+    .filtered-course-wraper .col-12.col-sm-6.col-md-6.col-lg-4 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .company-profile-hero img {
+        width: 50%;
+        max-width: 100%;
+        margin-top: 40px;
+    }
+    .company-profile-bottom-social a {
+        font-size: 40px;
+    }
+    .find-out-more-current-page-menu {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+        flex-wrap: wrap;
+    }
+    .why-current-company-info p {
+        font-size: 26px;
+    }
+    .our-expert-title h2 {
+        font-size: 45px;
+    }
+    .company-profile-recommended-software-title h5 {
+        font-size: 25px;
+    }
+    .company-profile-recommended-software-item .recommended-software-item-name-details-left>div {
+        display: flex;
+    }
+    .ask-a-question-form-top {
+        display: block;
+        justify-content: space-between;
+    }
+    .ask-a-question-form-top a {
+        font-size: 12px;
+    }
+    #top-header {
+        height: 200px;
+    }
+    .top-header-logo img {
+        width: 260px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+
+    .section-title h5 {
+        font-size: 16px;
+        line-height: 42px;
+    }
+    .section-title h2 {
+        font-size: 45px;
+        line-height: 70px;
+        margin-top: 10px;
+    }
+    .hero-text p{
+        text-align: justify;
+    }
+    .resources-h-item a>img {
+        min-height: 255px;
+    }
+    .hero-content .info-box .info-box-content {
+
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+    .hero-content .info-box .info-box-content .expert-name h4 {
+        font-size: 24px;
+
+    }
+    .hero-content .info-box .info-box-content .expert-designation {
+        min-height: 55px;
+    }
+    .hero-content .info-box .info-box-content .expert-company p {
+        font-size: 16px;
+        color: rgba(0, 0, 0, 0.7);
+    }
+}
+
+@media (max-width: 991.98px) {
+    .hero-supporters-alt {
+        text-align: center;
+    }
+    .hero-text.software-text a.js-video-button,.hero-text.companies-text a.js-video-button {
+
+        border: 0;
+        text-align: left;
+        padding: 0;
+        margin: 0;
+        text-transform: inherit;
+    }
+    .categories-item a {
+        width: 30%;
+        font-size: 16px;
+        padding: 7px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .footer-menu-links {
+        display: inline-block;
+    }
+    .footer-menu ul {
+        list-style: none;
+        padding: 0;
+        /* margin-right: 20px; */
+        width: 100%;
+    }
+
+    section#header:after {
+        bottom: -112px;
+        width: 100%;
+        height: 115px;
+    }
+    .hero-right-video {
+        position: relative;
+        width: 65%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .hero-text h1 {
+        font-size: 42px;
+        text-align: center;
+    }
+    .hero-text p {
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+    .hero-text.wow.fadeInUp {
+        text-align: center;
+    }
+    .hero-foundation-partners-logo {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+        justify-content: center;
+    }
+    .hero-image-over-news h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .hero-image-over-news span {
+        font-size: 18px;
+    }
+    .hero-image-over-news p {
+        font-size: 15px;
+    }
+    .row.resources-row {
+        justify-content: center;
+    }
+    .resources-h-item-overlay span {
+        font-size: 13px;
+        margin-right: 10px;
+    }
+    .resources-h-item-overlay h4 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .hero-foundation-partners-logo {
+        display: flex;
+        align-items: center;
+        margin-top: 20px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .companies-page {
+        justify-content: center;
+    }
+    .companie-item-full-width-info-bottom .recommended-software-item-review>div {
+        width: 50%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .companie-item-full-width-info-bottom .recommended-software-item-review {
+        margin-bottom: 0px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    a.visit-website2 {
+        right: inherit;
+        bottom: -65px;
+        left: 0;
+        position: inherit;
+        display: inline;
+    }
+    .companie-item-full-width-wraper {
+        align-items: flex-start;
+    }
+    .featured-companies-slider button.owl-prev,
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 90%;
+    }
+    .companie-item-full-width-logo {
+        margin-right: 40px;
+        max-width: 180px;
+        flex: 0 0 180px;
+    }
+    ul.navbar-nav.ml-auto {
+        margin-top: 15px;
+    }
+    .industry-videos {
+        width: 100% !important;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4 {
+        display: flex;
+        justify-content: space-between;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4>div {
+        width: 48%;
+    }
+    section#featured-content .featured-content-item {
+        margin-top: 40px;
+    }
+    .start-learning-row {
+        justify-content: center;
+    }
+    .join-us-item {
+        width: 90%;
+    }
+    .our-partners-image {
+        width: 25%;
+    }
+    .company-profile-hero img {
+        width: 40%;
+        max-width: 100%;
+        margin-top: 40px;
+    }
+    .find-out-more-current-page-menu a {
+        width: 40%;
+        text-align: center;
+    }
+    #why-current-company a.leave-review {
+        padding: 5px 40px;
+        font-size: 18px;
+        line-height: 50px;
+        top: -15px;
+        right: 0;
+    }
+    .our-experts-item.featured-expert-item {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .our-experts-info.featured-experts-info span {
+        font-size: 13px;
+    }
+    .our-experts-info.featured-experts-info h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .company-profile-recommended-software-title h3 {
+        font-size: 35px;
+    }
+    .company-profile-recommended-software-title h5 {
+        font-size: 22px;
+    }
+    .company-profile-recommended-software-item.filtered-software-item .filtered-software-item h3 {
+        font-size: 25px;
+    }
+    .sectors-menu {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+        flex-wrap: wrap;
+    }
+    .sectors-menu a {
+        width: 40%;
+        text-align: center;
+    }
+    .ask-a-question-btns>div {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .ask-a-question-form-top a {
+        width: 47%;
+    }
+    .hero-image-over-news h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-8 {
+        padding-right: 15px;
+        max-width: 100%;
+        flex: 100%;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .featured-courses .course-wrap .course-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+        width: max-content;
+    }
+}
+
+@media (max-width: 860px) {
+    .hero-text h1 {
+        font-size: 30px;
+        line-height: 1.2;
+        text-align: center;
+    }
+    .hero-right-video {
+        position: relative;
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .software-filter-btns {
+        display: flex;
+        padding-left: 0px;
+        padding-right: 0px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .software-filter-btns>div {
+        width: 30%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .nice-select {
+        box-shadow: 0px 3px 8px #00000030;
+        border-radius: 40px;
+        padding: 0px 40px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        position: relative;
+
+        z-index: 0;
+    }
+    .filtered-software-item {
+        background: #F4F4F4;
+        border-radius: 15px;
+        padding: 30px 20px;
+    }
+    .hero-foundation-partners-logo img {
+        margin-right: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4 {
+        display: flex;
+        justify-content: space-between;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4>div {
+        width: 48%;
+    }
+    .our-course-hero-image h2 {
+        font-size: 35px;
+    }
+    #feature-course2 {
+        margin-top: 190px;
+    }
+    .featured-cousers-slider-item a h3 {
+        min-height: 110px;
+    }
+    .our-partners-image {
+        width: 33%;
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .expert-details-partners-section .container{
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .newsletter-box form input{
+        margin-bottom: 15px;
+    }
+    .newsletter-box form input[type=submit] {
+
+        margin-bottom: 10px;
+
+    }
+    .newsletter-box{
+        padding: 20px;
+    }
+    .newsletter-box h3,.newsletter-box p {
+
+        margin-bottom: 5px;
+    }
+
+    .recommended-software .software-box .content-wrap .btns a{
+        max-width: 150px;
+    }
+    .rexroth-section {
+        margin-top: 10px;
+    }
+    .share-btn a {
+        margin-bottom: 5px;
+    }
+    .ask-an-expert-category-row .category-types .button-wrap button {
+        font-size: 15px;
+        padding-left: 18px;
+        padding-right: 18px;
+
+    }
+    .ask-an-expert-category-row .category-search-container .input-wrap input{
+        margin-bottom: 20px;
+    }
+    .featured-companies-slider .owl-dots{
+        margin-bottom: 0;
+    }
+    .industrybrochure {
+        position: absolute;
+        width: 49px;
+        top: 17%;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    
+
+    .industrybrochure img {
+    
+        width: 16px;
+    }
+    
+    .industrybrochure:hover {
+
+        width: max-content;
+    }
+    .rexroth-section .btns-row p{
+        font-size: 14px;
+    }
+    section#recommended-software{
+        padding: 30px 0;
+    }
+    .hero-text.software-text h1{
+        font-size: 30px;
+    }
+    .breadcrumbs-wrap .breadcrumbs{
+        margin-top: 20px;
+    }
+
+    .hero-text a, .all-resources-link.btnn-design2 a{
+        min-width: 200px;
+    }
+    section#resources-h,section#featured-experts,section#featured-content{
+        padding: 30px 0;
+
+    }
+    
+
+    .see-more-btn{
+        margin-top: 60px;
+    }
+    .companie-item-full-width-info p{
+        text-align: justify;
+    }
+    .featured-products {
+        margin-top: 20px;
+
+    }
+    section#browse-software{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .featured-companies-item {
+        min-height: 100px;
+    }
+
+    section#categories {
+        margin-top: 70px;
+        position: relative;
+        padding-bottom: 60px;
+    }
+    a.leave-review {
+        padding: 5px 40px;
+        font-size: 18px;
+        line-height: 50px;
+        top: -65px;
+        right: 0;
+    }
+    .recommended-software-item-name h3 {
+        font-size: 35px;
+        line-height: 34px;
+    }
+    .recommended-software-item {
+        padding: 30px;
+        min-height: 300px;
+    }
+
+    button.owl-prev {
+        position: absolute;
+        left: 89%;
+    }
+    .recommended-software-slider {
+        margin-top: 80px;
+    }
+    .filtered-software-item h3 {
+        font-size: 40px;
+        font-weight: normal;
+        margin-bottom: 0;
+        letter-spacing: 1px;
+    }
+    .filtered-software-item>p {
+        font-size: 20px;
+        width: 77%;
+        font-weight: 300;
+        line-height: 29px;
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+    /* .resources-h-item-overlay h2 {
+        line-height: 28px;
+    } */
+    section#footer .col-12.col-md-4>div {
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .footer-info p {
+        font-size: 20px;
+        font-weight: 300;
+        margin-top: 17px;
+    }
+    section#footer h5 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .footer-menu ul a {
+        font-size: 20px;
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+    .footer-subscriber form button {
+        padding: 8px 25px;
+        border-radius: 5px;
+        font-size: 15px;
+        margin: 0 auto;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .footer-subscriber form {
+        width: 70%;
+        text-align: left;
+        margin: 0 auto;
+    }
+    .footer-subscriber form input {
+        padding: 10px 20px;
+        width: 100%;
+        border-radius: 6px;
+        font-size: 16px;
+    }
+    .footer-copyright {
+        border-top: 1px solid #525252;
+        padding-top: 15px;
+        display: block;
+        justify-content: space-between;
+        margin-top: 100px;
+        text-align: center;
+    }
+    .footer-copyright-right {
+        margin-top: 15px;
+    }
+    .nice-select .current {
+        font-size: 15px;
+    }
+    .companie-item-full-width-info-bottom .recommended-software-item-review>div {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: center;
+    }
+    .featured-companies-slider button.owl-prev,
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 87%;
+    }
+    .companie-item-full-width-wraper {
+        align-items: flex-start;
+        display: block;
+        text-align: center;
+    }
+    .companie-item-full-width-logo {
+        margin-right: 40px;
+        max-width: 250px;
+        flex: 0 0 250px;
+        margin: 0 auto 20px;
+    }
+    .companie-item-full-width-info h3 {
+        display: none;
+    }
+    a.visit-website2 {
+        margin-top: 15px;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4 {
+        display: block;
+        justify-content: space-between;
+    }
+    section#featured-content .col-12.col-md-12.col-lg-4>div {
+        width: 100%;
+    }
+    .ask-a-question-form-top a {
+        width: 45%;
+    }
+    .start-learning-item-text {
+        padding: 50px 40px;
+        min-height: 460px;
+    }
+    .row.join-us-now-row {
+        justify-content: center;
+    }
+    .academics-recources .resources-h-item-overlay h2 span {
+        font-size: 18px;
+    }
+    .why-current-company-info p {
+        text-align: center;
+    }
+    .our-experts-item.featured-expert-item {
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .row.our-experts-row {
+        justify-content: center;
+    }
+    #top-header {
+        height: 120px;
+    }
+    .top-header-logo img {
+        width: 175px;
+    }
+    .featured-companies-item {
+        min-height: 550px;
+    }
+    .hero-content .owl-dots,
+    .hero-foundation-partners-alt {
+        text-align: center;
+    }
+    .hero-foundation-partners-alt div {
+        justify-content: center;
+    }
+    .featured-companies-item p{
+        text-align: justify;
+    }
+}
+
+@media (max-width: 575.98px) {
+    section.resources-section-courses .info-box .info-box-content .info-box-btns {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    section.resources-section-courses .info-box .info-box-content .info-box-btns a {
+        padding-left: 10px;
+        padding-right: 10px;
+        flex: 0 0 50%;
+        max-width: 50%;
+        text-align: center;
+    }
+    section.resources-section-courses .info-box .info-box-content .info-box-btns a:last-child {
+        margin-right: 0;
+    }
+    a.leave-review {
+        padding: 0px 28px;
+        font-size: 17px;
+        line-height: 45px;
+        top: -80px;
+        right: 0;
+    }
+    .hero-right-video {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    .categories-item a {
+        width: 48%;
+        font-size: 16px;
+        padding: 7px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    button.owl-prev {
+        position: absolute;
+        left: 84%;
+    }
+    .software-filter-btns>div {
+        width: 50%;
+        margin-left: 10px;
+        margin-right: 10px;
+        display: flex;
+
+        justify-content: center;
+    }
+    .software-filter-wraper h5 {
+        font-size: 28px;
+        font-weight: normal;
+        margin-bottom: 30px;
+        letter-spacing: 2px;
+        color: #272727;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* .resources-h-item-overlay h2 {
+        line-height: 24px;
+    } */
+    .resources-h-item-overlay span {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    .hero-text h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .hero-image-over-news h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .hero-play-btn {
+        font-size: 50px;
+    }
+    .section-title h2 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-top: 20px;
+        letter-spacing: 1px;
+    }
+    .filtered-software-item>p {
+        width: 100%;
+    }
+    .recommended-software-item-name-details a {
+        font-size: 14px;
+    }
+    .featured-companies-slider button.owl-prev,
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 83%;
+    }
+
+    .ask-a-question-form-top a {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    a.post-a-project {
+        width: fit-content;
+    }
+    .how-it-works-item {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .how-it-works-item-text {
+        margin-left: 0;
+        margin-top: 35px;
+    }
+    .ask-a-question-form-bottom-categories>div {
+        margin-bottom: 25px;
+        width: 50%;
+    }
+    .ask-a-question-form-search input {
+        position: relative;
+        width: 100%;
+        padding: 10px 10px;
+        font-size: 21px;
+        color: #C7C7C7;
+        font-weight: 600;
+        border: 0px;
+        padding-left: 45px;
+    }
+    .ask-a-question-form-search i {
+        font-size: 35px;
+    }
+    .ask-a-question-form-wraper {
+        background: #fff;
+        padding: 30px;
+        border-radius: 20px 20px 0px 0px;
+        margin-top: 30px;
+    }
+    #feature-course2 a.leave-review {
+        padding: 0px 28px;
+        font-size: 17px;
+        line-height: 45px;
+        top: -38px;
+        right: 0;
+    }
+    .start-learning-item-text a {
+        position: relative;
+        width: fit-content;
+        left: inherit;
+        bottom: 0;
+        transform: inherit;
+        margin-right: 0;
+    }
+    .popular-instructors-slider.owl-carousel .owl-item {
+        padding: 10px 10px;
+    }
+    .our-partners-image {
+        width: 40%;
+        margin-bottom: 30px;
+    }
+    .find-out-more-current-page-menu a {
+        width: 45%;
+        text-align: center;
+    }
+    .find-out-more-current-page-menu a {
+        font-size: 12px;
+        padding: 5px 20px;
+    }
+    .find-out-more-current-page h4 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .why-current-company-info h3 {
+        font-size: 35px;
+    }
+    .why-current-company-info p {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .why-current-company-info-share-btn a {
+        font-size: 22px;
+    }
+    .our-expert-title h2 {
+        font-size: 40px;
+    }
+    .our-experts-item.featured-expert-item {
+        width: 60%;
+    }
+    .company-profile-recommended-software-title h5 {
+        font-size: 18px;
+    }
+    .sectors-menu a {
+        font-size: 12px;
+        padding: 5px 20px;
+    }
+    .company-profile-hero .companies-page a {
+        font-size: 10px;
+    }
+    .company-profile-hero .companies-page i {
+        font-size: 15px;
+        color: #1A5BA9;
+    }
+    .company-profile-recommended-software-item .recommended-software-item-name-details-left>div {
+        display: inline-block;
+    }
+    .company-profile-recommended-software h3 {
+        font-size: 30px;
+    }
+    .company-profile-recommended-software .filtered-software-item>p {
+        font-size: 17px;
+    }
+    .company-profile-recommended-software .recommended-software-item-info a {
+        font-size: 10px;
+    }
+    .sectors-menu a {
+        width: 60%;
+        text-align: center;
+    }
+    .featured-courses .course-wrap .content,
+    .featured-resources .course-wrap .content {
+        padding: 20px;
+    }
+    .featured-courses .course-wrap .title,
+    .featured-resources .course-wrap .title {
+        line-height: 22px;
+    }
+    .featured-courses .course-wrap .title a,
+    .featured-resources .course-wrap .title a {
+        font-size: 18px;
+    }
+    .featured-resources .course-wrap .subtitle,
+    .featured-resources .course-wrap .date {
+        font-size: 14px;
+    }
+    .featured-courses .course-wrap .course-btn,
+    .featured-resources .course-wrap .course-btn {
+        position: static;
+        margin: auto;
+        transform: none;
+    }
+    .featured-courses .course-wrap {
+        padding-bottom: 0px;
+    }
+    .featured-courses .course-wrap .content {
+        padding-top: 5px;
+    }
+}
+
+@media (max-width: 450px) {
+    .featured-companies-slider .featured-companies-item-bottom {
+
+        width: calc(100% - 70px);
+    }
+    .featured-companies-item-bottom{
+        display: flex;
+        justify-content: space-between;
+
+        align-items: center;
+    }
+    .featured-companies-item.featured-companies-services .featured-companies-item-bottom {
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+    .featured-companies-item a.featured-companies-learn-more{
+
+        margin-right: 12px;
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+    a.featured-companies-learn-more i {
+        font-size: 18px;
+        margin-left: 2px;
+    }
+    .expert-details-section .sections-advice-row{
+        padding-top: 15px;
+        margin-top: 20px;
+    }
+    .all-resources-link{
+        margin-top: 30px;
+    }
+    .expert-hero-content p{
+        text-align: justify;
+
+    }
+    section#footer .footer-menu ul li a,section#footer .contact-us a{
+        font-size: 16px;
+    }
+    .hero-image-over-news h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .recommended-software-item-name-details {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+    .recommended-software-item-name-details-left>div a {
+        margin-top: 10px;
+        width: 240px;
+        text-align: center;
+    }
+    button.owl-prev {
+        position: absolute;
+        left: 78%;
+    }
+    .recommended-software-item-info {
+        display: block;
+        align-items: center;
+    }
+    .recommended-software-item-info {
+        display: block;
+        align-items: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .recommended-software-item-info>div {
+        margin-top: 20px;
+    }
+    .section-title h5 {
+        font-size: 13px;
+        padding: 11px 25px;
+        line-height: 25px;
+    }
+    .software-filter-btns>div {
+        width: 80%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .nice-select {
+        box-shadow: 0px 3px 8px #00000030;
+        border-radius: 40px;
+        padding: 0px 40px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        position: relative;
+
+        width: 100%;
+    }
+    .resources-h-item-logo {
+        height: 50px;
+        width: 100px;
+    }
+    .resources-h-item-logo img {
+        width: 60px;
+    }
+    .featured-companies-slider button.owl-prev,
+    .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 75%;
+    }
+    /*.featured-product-item img {
+	    width: 80% !important;
+	    margin-bottom: 20px;
+	}*/
+    .hero-text.companies-text h1,.expert-hero-content h1 {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+    .ask-a-question-form-bottom-categories>div {
+        margin-bottom: 25px;
+        width: 100%;
+    }
+    .our-course-hero-image h2 {
+        font-size: 20px;
+    }
+    .start-learning-item-text {
+        padding: 30px 15px;
+        min-height: 460px;
+    }
+    .find-out-more-current-page-menu a {
+        width: 65%;
+        text-align: center;
+    }
+    .our-experts-item.featured-expert-item {
+        width: 80%;
+    }
+    .company-profile-recommended-software.owl-carousel.owl-loaded.owl-drag {
+        margin-top: 30px;
+    }
+    .company-profile-hero .companies-page a {
+        font-size: 7px;
+        margin-right: 2px;
+    }
+    .company-profile-hero .companies-page i {
+        font-size: 9px;
+        color: #1A5BA9;
+    }
+    #why-current-company a.leave-review {
+        padding: 0px 20px;
+        font-size: 11px;
+        line-height: 50px;
+        top: -15px;
+        right: 0;
+    }
+    .featured-companies-item {
+        min-height: 730px;
+    }
+    section#featured-content .featured-content-item {
+        margin-top: 0px;
+    }
+    .industry-videos {
+        width: 100% !important;
+        margin-top: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    a.navbar-brand {
+        width: 150px;
+    }
+    a.navbar-brand img {
+        width: 100%;
+    }
+    #top-header {
+        height: 80px;
+    }
+    .top-header-logo img {
+        width: 110px;
+    }
+    .featured-companies-item.featured-companies-services a.featured-companies-learn-more{
+        min-width: 120px;
+        margin-right: 10px;
+
+    }
+    .featured-companies-item.featured-companies-services .featured-companies-item-bottom a {
+        flex: 0 0 48%;
+        max-width: 48%;
+    }
+    .featured-companies-item.featured-companies-services a.featured-companies-view-details{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 450px){
+.section-title h2 {
+    font-size: 28px!important;
+}
+}
+
+@media (max-width: 350px) {
+    section#featured-experts .section-title {
+        margin-bottom: 25px;
+    }
+    .section-title h2 {
+        margin-top: 0px;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: normal;
+    }
+
+    /* .resources-h-item-overlay h2 {
+        line-height: 22px;
+    } */
+    .footer-subscriber form {
+        width: 100%;
+        text-align: left;
+        margin: 0 auto;
+    }
+    .footer-copyright-left a {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 6px;
+    }
+    button.owl-prev {
+        position: absolute;
+        left: 75%;
+    }
+    .categories-item a {
+        width: 100%;
+        font-size: 16px;
+        padding: 7px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .hero-image-over-news p {
+        display: none;
+    }
+    .hero-play-btn {
+        padding: 0;
+        font-size: 65px;
+        height: 45px;
+        width: 45px;
+        text-align: center;
+        line-height: 52px;
+        color: #fff;
+        display: inline-block;
+    }
+    .hero-play-btn {
+        font-size: 40px;
+    }
+    .recommended-software-item-name h3 {
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .resources-h-item-overlay span {
+        font-size: 16px;
+        margin-right: 10px;
+        display: none;
+    }
+    .companie-item-full-width-logo {
+        margin-right: 40px;
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .companie-item-full-width-logo img {
+        width: 100%;
+    }
+    section#join-us-now .section-title h2 {
+        font-size: 22px;
+    }
+    .our-course-hero-text.hero-text h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .find-out-more-current-page-menu a {
+        width: 90%;
+        text-align: center;
+    }
+    .why-current-company-info h3 {
+        font-size: 25px;
+    }
+    .why-current-company-info p {
+        font-size: 17px;
+        line-height: 28px;
+    }
+    .our-expert-title h2 {
+        font-size: 30px;
+    }
+    .company-profile-recommended-software-title h3 {
+        font-size: 30px;
+    }
+    .company-profile-recommended-software h3 {
+        font-size: 22px;
+    }
+    .company-profile-recommended-software .filtered-software-item>p {
+        font-size: 15px;
+    }
+    .bosch-products.featured-product-slider.owl-carousel.owl-loaded.owl-drag {
+        margin-top: 70px;
+    }
+    .resources-h-slider.owl-carousel.owl-loaded.owl-drag {
+        margin-top: 70px;
+    }
+    .company-news-slider.owl-carousel.owl-loaded.owl-drag {
+        margin-top: 60px;
+    }
+    .sectors-menu a {
+        width: 90%;
+        text-align: center;
+    }
+    .sectors h4 {
+        font-size: 30px;
+    }
+    .featured-expert-item.featured-expert-item-text-box {
+        padding: 20px;
+    }
+    .featured-expert-item.featured-expert-item-text-box h3 {
+        font-size: 24px;
+    }
+    .featured-expert-item.featured-expert-item-text-box p {
+        font-size: 14px;
+    }
+    .resources-h-item-overlay h4 {
+        margin-bottom: 0px;
+        margin-top: 10px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .all-resources-link a {
+        padding: 10px 25px;
+        font-size: 15px;
+    }
+    .featured-companies-item {
+        padding: 20px;
+    }
+    .featured-companies-item p {
+        line-height: 1.4;
+        font-size: 14px;
+    }
+}
+

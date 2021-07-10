@@ -1,0 +1,32 @@
+.filtered-course-item .recommended-software-item-review {
+  display: none;
+}
+#popular-instructors .recommended-software-item-review {
+  display: none;
+}
+.hero-foundation-partners {
+  margin-top: 0;
+  top: 0;
+}
+.hero-foundation-partners-logo {
+  margin-top: 0;
+}
+@media (min-width: 992px) {
+  .hero-content-courses .hero-text {
+    margin-top: -12px;
+  }
+  .hero-content-courses .hero-text p {
+    margin-bottom: 20px;
+  }
+  section#course-categories {
+    padding: 100px 0px 50px 0px;
+  }
+  .hero-content-software svg {
+    bottom: 0
+  }
+}
+@media (max-width: 767.98px) {
+  .hero-foundation-partners {
+    text-align: center;
+  }
+}
