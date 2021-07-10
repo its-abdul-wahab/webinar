@@ -561,7 +561,11 @@ section#participating-companies{
         width: 10%;
     }
 }
-
+.section-divider{
+    width: 100%;
+    height: 1px;
+    background-color: #E2E7F6;
+}
 /*NWA features*/
 #nwa-featuring h5{
     color: #fff;
@@ -615,6 +619,9 @@ section#participating-companies{
     color: #000;
     margin-top: 5px;
 }
+/*.participant-info p{*/
+/*    font-size: 18px;*/
+/*}*/
 .grey-line{
     background: gray;
     width: 30%;
@@ -665,24 +672,32 @@ section#form .form-control:focus{
 .nice-select::after{
     top: 45% !important;
 }
+.open::after{
+    top: 70% !important;
+}
 @media (max-width: 1200px) {
     .nice-select{
         padding: 17px 25px !important;
         box-shadow: none !important;
     }
 }
+.nice-select .option:hover {
+    color: #fff !important;
+}
 /*custom check-boxes*/
 form .checkboxes{
     margin: 70px 0;
 }
-
+.checkboxes span{
+    color: #686868;
+}
 .round {
     position: relative;
 }
 
 .round label {
-    background-color: #fff;
-    border: 1px solid #0EC99D;
+    background-color: transparent;
+    border: 2px solid #0EC99D;
     border-radius: 25%;
     cursor: pointer;
     height: 25px;
@@ -722,6 +737,7 @@ form .checkboxes{
 
 .register-btn{
     border: none;
+    border-radius: 5px;
     box-shadow: 1px 3px 15px 0 rgb(106 167 26 / 15%);
     background-color: #0ec99d;
     color: #fff !important;
@@ -752,8 +768,12 @@ section#about-speakers h3{
     border: 1px solid #0EC99D;
     border-radius: 29px;
 }
-.speaker-detail{
+.speaker-detail p{
+    color: #686868;
     font-size: 24px;
+}
+.speaker-detail{
+
 }
 .speaker-card{
     box-shadow: 0 0 20px rgba(79, 86, 96, 0.07);
