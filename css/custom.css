@@ -910,7 +910,7 @@ section#about-speakers h3{
 }
 @media (max-width: 768px) {
     .speakers{
-        margin: 50px 0;
+        margin: 80px 0;
     }
     .speaker-info{
         margin-left: 0 !important;
