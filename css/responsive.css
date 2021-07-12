@@ -166,22 +166,23 @@
         position: relative;
         bottom: -15px;
     }
-    button.owl-prev {
-        position: absolute;
-        left: -20px;
-    }
-    button.owl-next {
-        right: -20px;
-        position: absolute;
-    }
-    .featured-companies-slider button.owl-prev {
-        position: absolute;
-        left: -30px;
-    }
-    .featured-companies-slider button.owl-next {
-        position: absolute;
-        right: -30px;
-    }
+    /*Commented by me*/
+    /*button.owl-prev {*/
+    /*    position: absolute;*/
+    /*    left: -20px;*/
+    /*}*/
+    /*button.owl-next {*/
+    /*    right: -20px;*/
+    /*    position: absolute;*/
+    /*}*/
+    /*.featured-companies-slider button.owl-prev {*/
+    /*    position: absolute;*/
+    /*    left: -30px;*/
+    /*}*/
+    /*.featured-companies-slider button.owl-next {*/
+    /*    position: absolute;*/
+    /*    right: -30px;*/
+    /*}*/
     .featured-product-slider button.owl-prev {
         position: absolute;
         left: -30px;
@@ -199,8 +200,8 @@
         left: 50%;
     }
 }
-
-@media (max-width: 1400px) {
+/*below query changed from 1400px to 990px by me*/
+@media (max-width: 990px) {
     .owl-nav {
         position: absolute;
         top: -50px;

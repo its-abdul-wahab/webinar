@@ -43,7 +43,7 @@ ul{
     padding-left: 17px;
 }
 .green-text{
-    color: #0EC99D;
+    color: #0EC99D !important; /*added !important after*/
 }
 .grey-text{
     color: gray;
@@ -499,10 +499,21 @@ section#webinarHeader {
     background: none;
     position: relative;
 }
+#webinar h3{
+    font-size: 45px;
+}
 .webinar-session{
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: 1.7px;
     font-weight: 700;
+}
+@media (max-width: 1500px){
+    #webinar h3{
+        font-size: 40px;
+    }
+    .webinar-session{
+        font-size: 20px;
+    }
 }
 @media (max-width: 990px) {
     .webinar-session{
@@ -510,6 +521,9 @@ section#webinarHeader {
     }
 }
 @media (max-width: 768px) {
+    #webinar h3{
+        font-size: 35px;
+    }
     .webinar-session{
         font-size: 18px;
     }
@@ -603,76 +617,9 @@ section#briefing ul li::before{
 #nwa-featuring h5{
     color: #fff;
 }
-.horizontal-video-heading {
-    position: absolute;
-    z-index: 1;
-    width: 85%;
-    bottom: 10px;
-    left: 50%;
-    transform: translate(-50%, -10px);
-    color: #fff;
-}
-.horizontal-video-heading span{
-    color: #F4F4F4;
-    font-weight: normal;
-    font-size: 10px;
-    margin-right: 10px;
-    letter-spacing: 1px;
-}
-.horizontal-video-heading h2 a{
-    font-size: 32px;
-    font-weight: bold;
-    color: #F4F4F4;
-    line-height: 38px;
-}
-
-.content-video-desc h4{
-    font-size: 20px;
-    font-weight: normal;
-    color: #F4F4F4;
-    line-height: 1.2;
-}
-@media (max-width: 1199.98px){
-    .content-video-desc h4 {
-        font-size: 16px;
-        line-height: 32px;
-    }
-}
-@media (max-width: 1400px) {
-    .content-video-desc h2{
-        font-size: 26px;
-        line-height: 32px;
-    }
-}
-@media (max-width: 991.98px){
-    .horizontal-video-heading span {
-        font-size: 13px;
-    }
-    .content-video-desc h4 {
-        font-size: 16px;
-        line-height: 32px;
-    }
-}
-@media (max-width: 575.98px){
-    .horizontal-video-heading span {
-        font-size: 16px;
-    }
-    .content-video-desc h2{
-        font-size: 20px;
-        line-height: 25px;
-    }
-    .content-video-desc h4{
-        font-size: 14px;
-    }
-}
-@media (max-width: 380px){
-    .horizontal-video-heading span {
-        font-size: 16px;
-    }
-    .content-video-desc h4{
-        margin-bottom: 0;
-        font-size: 10px;
-        line-height: 18px;
+@media (max-width: 400px){
+    .podcast-video h2{
+        font-size: 14px !important;
     }
 }
 .preview-btn{
@@ -703,6 +650,48 @@ section#briefing ul li::before{
         padding: 8px 18px;
     }
 }
+
+.content-video-desc h4{
+    font-size: 20px;
+    font-weight: normal;
+    color: #F4F4F4;
+    line-height: 1.2;
+}
+@media (max-width: 1199.98px){
+    .content-video-desc h4 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+}
+@media (max-width: 1400px) {
+    .content-video-desc h2{
+        font-size: 26px;
+        line-height: 32px;
+    }
+}
+@media (max-width: 991.98px){
+    .content-video-desc h4 {
+        font-size: 16px;
+        line-height: 32px;
+    }
+}
+@media (max-width: 575.98px){
+    .content-video-desc h2{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .content-video-desc h4{
+        font-size: 14px;
+    }
+}
+@media (max-width: 380px){
+    .content-video-desc h4{
+        margin-bottom: 0;
+        font-size: 10px;
+        line-height: 18px;
+    }
+}
+
 .participant-card {
     border-radius: 20px;
     box-shadow: 3px 6px 10px rgba(79, 86, 96, 0.1);

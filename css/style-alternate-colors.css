@@ -158,13 +158,18 @@ section#header {
     transform: translate(0px, -50%);
     width: 100%;
 }
-@media (max-width: 1400px){
+/*below query changed from 1400px to 990px by me*/
+@media (max-width: 990px){
     .owl-nav {
         position: absolute;
         top: -50px;
         transform: translate(0px, 0%);
         width: 100%;
     }
+}
+/*dots are display: none added by me*/
+.featured-resources .owl-dots{
+    display: none;
 }
 
 
