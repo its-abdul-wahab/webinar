@@ -932,3 +932,16 @@ section#about-speakers h3{
     margin-bottom: 0;
 }
 
+
+@media (max-width: 575.98px){
+    .featured-companies-slider button.owl-prev, .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 75% !important;
+    }
+}
+@media (max-width: 450px){
+    .featured-companies-slider button.owl-prev, .featured-product-slider button.owl-prev {
+        position: absolute;
+        left: 68% !important;
+    }
+}
