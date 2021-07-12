@@ -627,7 +627,7 @@ section#briefing ul li::before{
     box-shadow: 1px 3px 15px 0 rgb(106 167 26 / 15%);
     background-color: #0ec99d;
     color: #fff !important;
-    padding: 15px 40px;
+    padding: 10px 35px;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 1.6px;
