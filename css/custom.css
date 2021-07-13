@@ -352,7 +352,6 @@ section#application-info .professors p{
         margin-bottom: 3rem;
     }
 }
-
 /*Queries for Medium screens*/
 @media(min-width: 768px) and  (max-width: 990px){
     .header-uni-name{
@@ -495,6 +494,10 @@ p, h1, h2, h3, h4, h5{
 }
 
 /*Webinar Page CSS*/
+:root{
+    --textcolor: #686868;
+}
+/*Webinar Session*/
 section#webinarHeader {
     background: none;
     position: relative;
@@ -528,8 +531,10 @@ section#webinarHeader {
         font-size: 18px;
     }
 }
+
+/*Participating Companies*/
 section#participating-companies{
-    margin: 75px 0;
+    margin: 40px 0;
 }
 .company-wrapper{
     border: 1px solid #E2E7F6;
@@ -592,6 +597,15 @@ section#participating-companies{
     background-color: #E2E7F6;
 }
 
+/*Brief about the seminar*/
+/* Justified text */
+section#briefing p,
+section#briefing ul,
+section#about-speakers p,
+.checkboxes span{
+    color: var(--textcolor);
+    text-align: justify;
+}
 /*custom list*/
 section#briefing ul{
     line-height: 1.5em;
@@ -697,6 +711,12 @@ section#briefing ul li::before{
     box-shadow: 3px 6px 10px rgba(79, 86, 96, 0.1);
     margin-bottom: 20px;
 }
+.grey-line{
+    background: var(--textcolor);
+    width: 30%;
+    height: 2px;
+    margin: 10px 0;
+}
 .participant-info {
     padding: 20px;
     text-align: center;
@@ -713,19 +733,10 @@ section#briefing ul li::before{
     color: #000;
     margin-top: 5px;
 }
-/*.participant-info p{*/
-/*    font-size: 18px;*/
-/*}*/
-.grey-line{
-    background: gray;
-    width: 30%;
-    height: 2px;
-    margin: 10px 0;
-}
 
 /*form*/
 section#form{
-    margin-bottom: 150px;
+    margin-bottom: 40px;
 }
 section#form input{
     outline: none !important;
@@ -780,10 +791,7 @@ section#form .form-control:focus{
 }
 /*custom check-boxes*/
 form .checkboxes{
-    margin: 70px 0;
-}
-.checkboxes span{
-    color: #686868;
+    margin: 40px 0;
 }
 .round {
     position: relative;
@@ -794,9 +802,9 @@ form .checkboxes{
     border: 2px solid #0EC99D;
     border-radius: 25%;
     cursor: pointer;
+    width: 25px;
     height: 25px;
     position: absolute;
-    width: 25px;
     top: 0;
     right: 0;
 }
@@ -806,7 +814,7 @@ form .checkboxes{
     width: 14px;
     height: 6px;
     position: absolute;
-    top: 8px;
+    top: 7px;
     left: 4px;
     opacity: 0;
     border: 2px solid #0EC99D;
@@ -820,7 +828,6 @@ form .checkboxes{
 }
 
 .round input[type="checkbox"]:checked + label {
-    background-color: #fff;
     border-color: #0EC99D;
 }
 
@@ -844,13 +851,13 @@ form .checkboxes{
 
 /*More about Speaker*/
 section#about-speakers{
-    margin: 70px 0;
+    margin: 40px 0;
 }
 section#about-speakers h3{
     padding-bottom: 0;
 }
 .speakers{
-    margin: 150px 0;
+   margin-top: 150px;
 }
 .card-wrapper{
     background-color: #fff;
@@ -863,7 +870,6 @@ section#about-speakers h3{
     border-radius: 29px;
 }
 .speaker-detail p{
-    color: #686868;
     font-size: 24px;
 }
 .speaker-card{
