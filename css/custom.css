@@ -712,7 +712,7 @@ section#briefing ul li::before{
     margin-bottom: 20px;
 }
 .grey-line{
-    background: var(--textcolor);
+    background: #E2E7F6;
     width: 30%;
     height: 2px;
     margin: 10px 0;
