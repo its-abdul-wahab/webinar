@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/webinar page.iml" filepath="$PROJECT_DIR$/.idea/webinar page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webinar-page.iml" filepath="$PROJECT_DIR$/.idea/webinar-page.iml" />
     </modules>
   </component>
 </project>

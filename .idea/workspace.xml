@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ceed7b13-6f2d-4ee1-8f25-4b3f166a9fce" name="Default Changelist" comment="" />
+    <list default="true" id="ceed7b13-6f2d-4ee1-8f25-4b3f166a9fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webinar page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webinar-page.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-alternate-colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-alternate-colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Air.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aeonik-Thin.woff" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,12 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saqib Syed\Desktop\webinar\fonts" />
+      <recent name="C:\Users\Saqib Syed\Desktop\webinar page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saqib Syed\Desktop\webinar" />
       <recent name="C:\Users\Saqib Syed\Desktop\webinar page" />
     </key>
   </component>
@@ -37,8 +62,105 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625933464765</updated>
-      <workItem from="1625933467196" duration="392000" />
+      <workItem from="1625933467196" duration="5017000" />
+      <workItem from="1625946423659" duration="15711000" />
+      <workItem from="1626071857350" duration="11223000" />
+      <workItem from="1626121699824" duration="3983000" />
+      <workItem from="1626192237662" duration="7613000" />
+      <workItem from="1626275586410" duration="2161000" />
     </task>
+    <task id="LOCAL-00001" summary="index name updated">
+      <created>1625933972241</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625933972241</updated>
+    </task>
+    <task id="LOCAL-00002" summary="font updated">
+      <created>1625948770042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625948770042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes updated">
+      <created>1625955218690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625955218690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes updated">
+      <created>1625964220339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625964220339</updated>
+    </task>
+    <task id="LOCAL-00005" summary="webinar details updated">
+      <created>1625990156704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625990156704</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated">
+      <created>1626081757982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626081757982</updated>
+    </task>
+    <task id="LOCAL-00007" summary="indicators updated">
+      <created>1626082575244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626082575244</updated>
+    </task>
+    <task id="LOCAL-00008" summary="webinar section updated">
+      <created>1626122280523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626122280523</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cards margin updated">
+      <created>1626122685696</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626122685696</updated>
+    </task>
+    <task id="LOCAL-00010" summary="webinar session text updated">
+      <created>1626123623850</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626123623850</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" updated">
+      <created>1626124982997</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626124982997</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated">
+      <created>1626194221723</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626194221723</updated>
+    </task>
+    <task id="LOCAL-00013" summary="divider line updated">
+      <created>1626195094795</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626195094795</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,5 +176,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="index name updated" />
+    <MESSAGE value="font updated" />
+    <MESSAGE value="changes updated" />
+    <MESSAGE value="webinar details updated" />
+    <MESSAGE value="indicators updated" />
+    <MESSAGE value="webinar section updated" />
+    <MESSAGE value="cards margin updated" />
+    <MESSAGE value="webinar session text updated" />
+    <MESSAGE value=" updated" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="divider line updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="divider line updated" />
   </component>
 </project>

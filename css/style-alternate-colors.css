@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'Aeonik Air';
     src: url('../fonts/Aeonik-Air.woff') format('woff');
@@ -100,7 +99,7 @@
 }
 
 body {
-    font-family: Aeonik;
+    font-family: 'Aeonik';
     color: #272727;
 }
 
