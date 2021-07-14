@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceed7b13-6f2d-4ee1-8f25-4b3f166a9fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Aeonik-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Aeonik-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Aeonik-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Aeonik-Regular.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Material-Icon-Font.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Material-Icon-Font.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
       <workItem from="1626071857350" duration="11223000" />
       <workItem from="1626121699824" duration="3983000" />
       <workItem from="1626192237662" duration="7613000" />
-      <workItem from="1626275586410" duration="3865000" />
+      <workItem from="1626275586410" duration="6064000" />
     </task>
     <task id="LOCAL-00001" summary="index name updated">
       <created>1625933972241</created>
@@ -164,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626278184551</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="font files updated">
+      <created>1626279606270</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1626279606270</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +196,7 @@
     <MESSAGE value="updated" />
     <MESSAGE value="divider line updated" />
     <MESSAGE value="font file updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="font file updated" />
+    <MESSAGE value="font files updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="font files updated" />
   </component>
 </project>

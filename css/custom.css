@@ -5,9 +5,10 @@ section#course-section ul,
 section#application-info ul,
 section#application-info table,
 section#briefing p,
-section#briefing ul li{
-    font-size: 22px;
-    line-height: 1.42;
+section#briefing ul li,
+section#about-speakers .speaker-detail p{
+    font-size: 24px;
+    line-height: 34px;
 }
 @media (max-width: 768px){
     section#course-section p, section#application-info p, section#course-section ul, section#application-info ul, section#application-info table{
@@ -515,12 +516,12 @@ section#webinarHeader {
         font-size: 40px;
     }
     .webinar-session{
-        font-size: 20px;
+        font-size: 18px;
     }
 }
-@media (max-width: 990px) {
+@media (max-width: 1070px) {
     .webinar-session{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 @media (max-width: 768px) {
@@ -869,9 +870,6 @@ section#about-speakers h3{
     border: 1px solid #0EC99D;
     border-radius: 29px;
 }
-.speaker-detail p{
-    font-size: 24px;
-}
 .speaker-card{
     box-shadow: 0 0 20px rgba(79, 86, 96, 0.07);
     border-radius: 28px;
@@ -882,15 +880,14 @@ section#about-speakers h3{
     }
 }
 .speaker-info h3{
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bold;
-    padding-bottom: 31px !important;
 }
 .speaker-info h4{
-    font-size: 26px;
+    font-size: 24px;
 }
 .speaker-info h5{
-    font-size: 24px;
+    font-size: 20px;
 }
 @media (max-width: 575px){
     .speaker-info h3{
@@ -951,3 +948,24 @@ section#about-speakers h3{
         left: 68% !important;
     }
 }
+
+
+/*Changes according to UKindia page*/
+.section-title h5{
+    font-size: 16px !important;
+    line-height: 41px !important;
+}
+.section-title h2{
+    font-size: 40px !important;
+    line-height: 42px !important;
+}
+.participant-info h3{
+    font-size: 24px !important;
+    line-height: 26px !important;
+}
+.participant-info h4, .participant-info p{
+    font-size: 14px !important;
+    line-height: 16px !important;
+}
+
+
