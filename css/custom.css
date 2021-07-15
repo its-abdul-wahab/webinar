@@ -952,20 +952,20 @@ section#about-speakers h3{
 
 /*Changes according to UKindia page*/
 .section-title h5{
-    font-size: 16px !important;
-    line-height: 41px !important;
+    font-size: 16px;
+    line-height: 41px;
 }
 .section-title h2{
-    font-size: 40px !important;
-    line-height: 42px !important;
+    font-size: 40px;
+    line-height: 42px;
 }
 .participant-info h3{
-    font-size: 24px !important;
-    line-height: 26px !important;
+    font-size: 24px;
+    line-height: 26px;
 }
 .participant-info h4, .participant-info p{
-    font-size: 14px !important;
-    line-height: 16px !important;
+    font-size: 14px;
+    line-height: 16px;
 }
 
 
