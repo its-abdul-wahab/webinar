@@ -11,8 +11,16 @@ section#about-speakers .speaker-detail p{
     line-height: 34px;
 }
 @media (max-width: 768px){
-    section#course-section p, section#application-info p, section#course-section ul, section#application-info ul, section#application-info table{
+    section#course-section p,
+    section#application-info p,
+    section#course-section ul,
+    section#application-info ul,
+    section#application-info table,
+    section#briefing p,
+    section#briefing ul li,
+    section#about-speakers .speaker-detail p{
         font-size: 18px;
+        line-height: 1.42;
     }
 }
 table{
