@@ -872,7 +872,6 @@ section#about-speakers h3{
     background-color: #fff;
     margin-top: -10%;
     margin-left: -.5%;
-    padding: 30px;
 }
 .speaker-detail{
     border: 1px solid #0EC99D;
@@ -941,20 +940,6 @@ section#about-speakers h3{
     font-size: 26px;
     font-weight: 500;
     margin-bottom: 0;
-}
-
-
-@media (max-width: 575.98px){
-    .webinar-participants-slider button.owl-prev{
-        position: absolute;
-        left: 75% !important;
-    }
-}
-@media (max-width: 450px){
-    .webinar-participants-slider button.owl-prev{
-        position: absolute;
-        left: 68% !important;
-    }
 }
 
 
