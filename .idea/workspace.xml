@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ceed7b13-6f2d-4ee1-8f25-4b3f166a9fce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -58,7 +58,13 @@
       <workItem from="1626071857350" duration="11223000" />
       <workItem from="1626121699824" duration="3983000" />
       <workItem from="1626192237662" duration="7613000" />
-      <workItem from="1626275586410" duration="6064000" />
+      <workItem from="1626275586410" duration="7216000" />
+      <workItem from="1626344027773" duration="1406000" />
+      <workItem from="1626358567371" duration="849000" />
+      <workItem from="1626430153816" duration="2734000" />
+      <workItem from="1626434478185" duration="559000" />
+      <workItem from="1626506819204" duration="9894000" />
+      <workItem from="1626680163577" duration="1629000" />
     </task>
     <task id="LOCAL-00001" summary="index name updated">
       <created>1625933972241</created>
@@ -165,7 +171,42 @@
       <option name="project" value="LOCAL" />
       <updated>1626279606270</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="font files updated">
+      <created>1626285050981</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1626285050981</updated>
+    </task>
+    <task id="LOCAL-00017" summary="responsive fonts updated">
+      <created>1626345018836</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1626345018836</updated>
+    </task>
+    <task id="LOCAL-00018" summary="para font updated">
+      <created>1626358807084</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1626358807084</updated>
+    </task>
+    <task id="LOCAL-00019" summary="responsive updated">
+      <created>1626432034667</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1626432034667</updated>
+    </task>
+    <task id="LOCAL-00020" summary="webinar text padding updated">
+      <created>1626434657854</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1626434657854</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +238,10 @@
     <MESSAGE value="divider line updated" />
     <MESSAGE value="font file updated" />
     <MESSAGE value="font files updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="font files updated" />
+    <MESSAGE value="responsive fonts updated" />
+    <MESSAGE value="para font updated" />
+    <MESSAGE value="responsive updated" />
+    <MESSAGE value="webinar text padding updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="webinar text padding updated" />
   </component>
 </project>
