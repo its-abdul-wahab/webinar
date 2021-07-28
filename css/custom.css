@@ -223,7 +223,7 @@ ul{
 section#navigation-buttons, section#programme-structure {
     padding: 50px 0;
 }
-section#course-section, section#application-info, section#nwa-featuring, section#form .checkboxes{
+section#course-section, section#application-info, section#nwa-featuring, section#webinar-form .checkboxes{
     background: #F4F4F4;
     padding: 50px 0;
 }
@@ -744,10 +744,12 @@ section#briefing ul li::before{
 }
 
 /*form*/
-section#form{
+section#webinar-form{
     margin-bottom: 40px;
 }
-section#form input{
+/*  */
+section#webinar-form input,
+section#product-feature input{
     outline: none !important;
     box-shadow: none;
     border-radius: 50px;
@@ -756,23 +758,17 @@ section#form input{
     border: 1px solid #272727;
     background-color: #fff;
 }
-section#form input, section#form .nice-select{
+section#webinar-form input,
+section#webinar-form .nice-select,
+section#product-feature input,
+section#product-feature .nice-select{
     margin-top: 0;
     margin-bottom: 35px;
     justify-content: center;
     font-weight: 500;
 }
-section#form select{
-    border-radius: 50px;
-    background: #686868;
-    color: #272727;
-    text-align: left !important;
-}
-section#form .form-control:focus{
-    border: 1px solid #0EC99D;
-    color: #0EC99D;
-}
-.nice-select{
+section#webinar-form .nice-select,
+section#product-feature .nice-select{
     width: 100% !important;
     border-radius: 50px;
     background: #F4F4F4;
@@ -783,21 +779,38 @@ section#form .form-control:focus{
     line-height: 25px;
     text-align: left !important;
 }
-.nice-select::after{
+section#webinar-form .form-control:focus,
+section#product-feature .form-control:focus{
+    border: 1px solid #0EC99D;
+    color: #0EC99D;
+}
+section#webinar-form .nice-select:hover,
+section#product-feature .nice-select:hover,
+section#webinar-form .nice-select.open,
+section#product-feature .nice-select.open{
+    background: #0EC99D;
+}
+section#webinar-form .nice-select::after,
+section#product-feature .nice-select::after{
     top: 45% !important;
 }
-.open::after{
+section#webinar-form .open::after,
+section#product-feature .open::after{
     top: 70% !important;
 }
 @media (max-width: 1200px) {
-    .nice-select{
+    section#webinar-form .nice-select,
+    section#product-feature .nice-select{
         padding: 17px 25px !important;
         box-shadow: none !important;
     }
 }
-.nice-select .option:hover {
+section#webinar-form .nice-select .option:hover,
+section#product-feature .nice-select .option:hover{
     color: #fff !important;
 }
+
+
 /*custom check-boxes*/
 form .checkboxes{
     margin: 40px 0;
@@ -845,7 +858,7 @@ form .checkboxes{
 }
 
 
-.register-btn{
+section#webinar-form .register-btn{
     border: none;
     border-radius: 5px;
     box-shadow: 1px 3px 15px 0 rgb(106 167 26 / 15%);
@@ -856,6 +869,10 @@ form .checkboxes{
     text-transform: uppercase;
     letter-spacing: 1.6px;
     font-weight: 500;
+}
+section#webinar-form .register-btn:hover{
+    transform: translateY(-2px);
+    box-shadow: 1px 7px 20px 0 rgba(106, 167, 26, 0.25);
 }
 
 /*More about Speaker*/
